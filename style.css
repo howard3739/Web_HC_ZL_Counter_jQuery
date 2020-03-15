@@ -1,0 +1,17 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 微軟正黑體;
+    box-sizing: border-box;
+}
+
+body {
+    background: #6699bb;
+}
+
+.number {
+    text-align: center;
+    color: white;
+    font-size: 36px;
+    padding: 30px;
+}
